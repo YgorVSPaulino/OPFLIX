@@ -7,7 +7,7 @@ import Nav from "../components/Nav.vue";
     <!-- Componente Nav incluído no HomeView -->
     <Nav></Nav>
     <!-- Conteúdo do HomeView -->
-    <div class="flex justify-center items-center py-36">
+    <div class="flex justify-center items-center">
     <div class="w-full max-w-md">
       <div class="bg-black opacity-80 p-11 shadow-lg rounded-lg">
         <h2 class="text-2xl font-bold text-center mb-6 text-white">Entrar</h2>
